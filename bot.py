@@ -7,7 +7,7 @@ from telegram import Update, ReplyKeyboardMarkup, KeyboardButton
 from telegram.ext import ApplicationBuilder, ContextTypes, CommandHandler, MessageHandler, filters
 
 # --- SOZLAMALAR ---
-TOKEN = "8524179314:AAG6qq-9DlczUHDRQkpyL2ZuV925wzyaMmw"
+TOKEN = "8744818266:AAHyEeNJLGWae5L5k5TVFIB9X-15l5jP4Ec"
 ADMIN_ID = 6123752979
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
